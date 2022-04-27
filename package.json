@@ -1,0 +1,22 @@
+{
+  "name": "da-bot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starklosch/DA-Bot.git"
+  },
+  "author": "Starklosch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starklosch/DA-Bot/issues"
+  },
+  "homepage": "https://github.com/Starklosch/DA-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
